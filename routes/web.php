@@ -40,6 +40,15 @@ Route::get('/classes', function () {
 Route::get('/holidays', function () {
     return view('school/holidays');
 });
+
+Route::get('/record', function () {
+    return view('record/index');
+});
+
+Route::get('/how', function () {
+    return view('record/how');
+});
+
 Route::get('/home', function () {
     return view('home');
 });
