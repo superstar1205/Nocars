@@ -268,7 +268,7 @@ body {
 
 .login {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: url('../images/login.jpg');
     background-position: center;
     background-size: cover;
@@ -276,7 +276,7 @@ body {
 
 .register {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: url('../images/register.jpg');
     background-position: center;
     background-size: cover;
@@ -284,7 +284,7 @@ body {
 
 .forgot {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: url('../images/fogotpassword.jpg');
     background-position: center;
     background-size: cover;
@@ -314,7 +314,7 @@ body {
     }
 }
 
-@media (max-width: 355px) and (orientation: portrait) {
+@media (max-width: 550px) and (orientation: portrait) {
     body {
         height: 100%;
     }
