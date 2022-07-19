@@ -7,13 +7,13 @@
     <!-- main content -->
     <div class="main d-flex justify-content-center">
         <div class="container d-flex flex-column justify-content-around align-item-center">
-            <div class="d-flex justify-content-center align-item-center">
+            <div class="d-flex justify-content-center align-item-center py-4">
                 <div class="h-top">
                     <img class="w-100" src="../icons/007.png">
                 </div>
             </div>
             
-            <div class="h-card pt-5">
+            <div class="h-card py-5">
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
                     <div class="h-btg text-center">
                         <div class="h-btm">

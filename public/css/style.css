@@ -214,9 +214,6 @@ body {
 
 .h-card {
     width: 100%;
-    height: 40vh;
-    min-height: 400px;
-    overflow: auto;
 }
 
 .h-top {
