@@ -292,10 +292,20 @@ body {
 
 .main {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-color: #003506;
     background-position: center;
     background-size: cover;
+}
+
+@media (max-width: 1023px) and (orientation: landscape) {
+    body,
+    .login,
+    .register,
+    .forgot,
+    .main {
+        height: 100% !important;
+    }
 }
 
 @media (max-width: 780px) and (orientation: portrait) {
@@ -320,7 +330,7 @@ body {
     }
 }
 
-@media (max-width: 780px) and (orientation: landscape) {
+@media (max-width: 567px) {
     .m-trh {
         display: none;
     }
@@ -330,8 +340,5 @@ body {
         margin-bottom: 16px;
         border: 2px solid #e7e2e2;
         padding: 4px;
-    }
-    body {
-        height: 100%;
     }
 }
