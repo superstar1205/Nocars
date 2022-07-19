@@ -5,7 +5,7 @@
     @include('layouts.flash_message')
 
     <!-- main content -->
-    <div class="main d-flex justify-content-center">
+    <div class="record d-flex justify-content-center">
         <div class="container d-flex justify-content-center">
             <div class="w-100 d-flex flex-column justify-content-between align-item-center">
                 <div class="d-flex justify-content-end">
@@ -18,7 +18,7 @@
                         <div class="t-cell d-r"><i class="bi bi-caret-right-fill"></i></div>
                     </div>
                 </div>
-                <div class="r-card d-flex flex-wrap justify-content-center align-items-start mt-3 pb-3 pt-3">
+                <div class="r-card d-flex flex-wrap justify-content-center align-items-start mt-5 pt-3 pb-5">
                     <div class="r-cell r-cell-b"><img class="w-100" src="../icons/001.png"></div>
                     <div class="r-cell r-cell-a">
                         <img class="w-100" src="../icons/002.png">

@@ -117,7 +117,7 @@ body {
 }
 
 .t-box {
-    min-height: 296px;
+    min-height: 352px;
     height: 30vh;
     overflow-y: auto;
 }
@@ -169,11 +169,8 @@ body {
 
 .r-card {
     background: #E8ED09;
-    min-height: 520px;
-    height: 60vh;
     width: 100%;
     border-radius: 1.5rem 1.5rem 0 0;
-    overflow: auto;
 }
 
 .r-cell {
@@ -227,7 +224,7 @@ body {
 }
 
 .h-btg {
-    width: 120px;
+    width: 118px;
     margin: 16px;
     color: #fff;
 }
@@ -244,8 +241,8 @@ body {
 }
 
 .h-btm {
-    width: 120px;
-    height: 120px;
+    width: 118px;
+    height: 118px;
     padding: 16px;
     border-radius: 60px;
     background-color: #E8ED09;
@@ -298,17 +295,32 @@ body {
     background-size: cover;
 }
 
-@media (max-width: 1023px) and (orientation: landscape) {
-    body,
-    .login,
-    .register,
-    .forgot,
-    .main {
+.record {
+    width: 100%;
+    height: 100vh;
+    background-color: #003506;
+    background-position: center;
+    background-size: cover;
+}
+
+@media (max-width: 1180px) and (orientation: landscape) {
+    .record {
         height: 100% !important;
     }
 }
 
-@media (max-width: 780px) and (orientation: portrait) {
+@media (max-width: 990px) and (orientation: landscape) {
+    body,
+    .login,
+    .register,
+    .forgot,
+    .main,
+    .record {
+        height: 100% !important;
+    }
+}
+
+@media (max-width: 567px) and (orientation: portrait) {
     .m-trh {
         display: none;
     }
@@ -322,12 +334,18 @@ body {
     .footer {
         margin-top: -48px;
     }
-}
-
-@media (max-width: 550px) and (orientation: portrait) {
-    body {
+    body,
+    .record {
         height: 100%;
     }
+    .main {
+        height: 100% !important;
+    }
+    /* .t-box {
+        min-height: 352px;
+        height: 100%;
+        overflow-y: auto;
+    } */
 }
 
 @media (max-width: 567px) {
