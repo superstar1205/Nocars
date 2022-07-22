@@ -19,100 +19,100 @@
                     </div>
                 </div>
                 <div class="r-card d-flex flex-wrap justify-content-center align-items-start mt-5 pt-3 pb-5">
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/001.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/001.png"></div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/002.png">
+                        <img class="w-100" src="../icon/002.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
+                            <img class="w-100" src="../icon/scooter.png">
                         </div>
                     </div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/003.png">
+                        <img class="w-100" src="../icon/003.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/walking.png">
+                            <img class="w-100" src="../icon/walking.png">
                         </div>
                     </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/004.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/005.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/006.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/004.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/005.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/006.png"></div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/007.png">
+                        <img class="w-100" src="../icon/007.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/walking.png">
+                            <img class="w-100" src="../icon/walking.png">
                         </div>
                     </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/008.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/008.png"></div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/009.png">
+                        <img class="w-100" src="../icon/009.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
+                            <img class="w-100" src="../icon/scooter.png">
                         </div>
                     </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/010.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/011.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/021.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/010.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/011.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/021.png"></div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/022.png">
+                        <img class="w-100" src="../icon/022.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
-                        </div>
-                    </div>
-                    <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/023.png">
-                        <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/walking.png">
-                        </div>
-                    </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/024.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/025.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/026.png"></div>
-                    <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/027.png">
-                        <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/walking.png">
-                        </div>
-                    </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/028.png"></div>
-                    <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/029.png">
-                        <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
-                        </div>
-                    </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/030.png"></div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/031.png"></div>
-                    <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/032.png">
-                        <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
+                            <img class="w-100" src="../icon/scooter.png">
                         </div>
                     </div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/033.png">
+                        <img class="w-100" src="../icon/023.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/walking.png">
+                            <img class="w-100" src="../icon/walking.png">
                         </div>
                     </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/034.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/024.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/025.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/026.png"></div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/012.png">
+                        <img class="w-100" src="../icon/027.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
+                            <img class="w-100" src="../icon/walking.png">
+                        </div>
+                    </div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/028.png"></div>
+                    <div class="r-cell r-cell-a">
+                        <img class="w-100" src="../icon/029.png">
+                        <div class="r-cell-ac">
+                            <img class="w-100" src="../icon/scooter.png">
+                        </div>
+                    </div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/030.png"></div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/031.png"></div>
+                    <div class="r-cell r-cell-a">
+                        <img class="w-100" src="../icon/032.png">
+                        <div class="r-cell-ac">
+                            <img class="w-100" src="../icon/scooter.png">
                         </div>
                     </div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/013.png">
+                        <img class="w-100" src="../icon/033.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/walking.png">
+                            <img class="w-100" src="../icon/walking.png">
+                        </div>
+                    </div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/034.png"></div>
+                    <div class="r-cell r-cell-a">
+                        <img class="w-100" src="../icon/012.png">
+                        <div class="r-cell-ac">
+                            <img class="w-100" src="../icon/scooter.png">
                         </div>
                     </div>
                     <div class="r-cell r-cell-a">
-                        <img class="w-100" src="../icons/019.png">
+                        <img class="w-100" src="../icon/013.png">
                         <div class="r-cell-ac">
-                            <img class="w-100" src="../icons/scooter.png">
+                            <img class="w-100" src="../icon/walking.png">
                         </div>
                     </div>
-                    <div class="r-cell r-cell-b"><img class="w-100" src="../icons/020.png"></div>
+                    <div class="r-cell r-cell-a">
+                        <img class="w-100" src="../icon/019.png">
+                        <div class="r-cell-ac">
+                            <img class="w-100" src="../icon/scooter.png">
+                        </div>
+                    </div>
+                    <div class="r-cell r-cell-b"><img class="w-100" src="../icon/020.png"></div>
                 </div>
             </div>
         </div>
