@@ -287,7 +287,29 @@ body {
     background-size: cover;
 }
 
+.cnav-bar {
+    /* height: 72px !important; */
+    background-color: #011d04;
+}
+
+.nav-bcolor {
+    background-color: #011d04;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.nav-color {
+    color: #FFF !important;
+}
+
+.nav-setc {
+    color: #E8ED09 !important;
+}
+
 .main {
+    padding-top: 72px;
     width: 100%;
     height: 100vh;
     background-color: #003506;
@@ -296,6 +318,7 @@ body {
 }
 
 .record {
+    padding-top: 72px;
     width: 100%;
     height: 100vh;
     background-color: #003506;
@@ -316,6 +339,12 @@ body {
     .forgot,
     .main,
     .record {
+        height: 100% !important;
+    }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+    body {
         height: 100% !important;
     }
 }
