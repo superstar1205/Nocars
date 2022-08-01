@@ -5,43 +5,66 @@
     @include('layouts.flash_message')
 
     <!-- main content -->
-    <nav class="navbar navbar-expand-md cnav-bar navbar-dark fixed-top">
-        <div class="container nav-bcolor">
-            <a class="navbar-brand" href="#"><h3>Logo</h3></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                <ul class="navbar-nav me-auto">
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/classes">Classes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/baseline">Baseline</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/details">School</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/holidays">Holidays</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/report">Report</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-setc nav-link nav-color" href="/record">Record</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/how">How</a>
-                    </li>
-                </ul>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link nav-color" href="/logout">Log out</a>
-                    </li>
-                </ul>
-            </div>
+    <header>
+        <div class="toggle">
+            <i class="fas fa-bars"></i>
         </div>
+        <h3>Dashboard</h3>
+        <a href="#">
+            <i class="fas fa-sign-out-alt"></i>
+        </a>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a class="toggle">
+                    <span class="icon"><i class="fas fa-bars"></i></span>
+                    <span class="title">Menu</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-home"></i></span>
+                    <span class="title">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-user"></i></span>
+                    <span class="title">Profile</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-envelope"></i></span>
+                    <span class="title">Messages</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-info"></i></span>
+                    <span class="title">Help</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-cog"></i></span>
+                    <span class="title">Setting</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-lock"></i></span>
+                    <span class="title">Password</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fas fa-sign-out-alt"></i></span>
+                    <span class="title">Sign Out</span>
+                </a>
+            </li>
+        </ul>
     </nav>
     <div class="record d-flex justify-content-center">
         <div class="container d-flex justify-content-center">
