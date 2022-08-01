@@ -7,10 +7,16 @@
     <meta name="keywords" content="No Cars">
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/png">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
     <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/bootstrap-icons.css" rel="stylesheet">
+    <link href="/css/select2.min.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
+
     <script src="/js/bootstrap.bundle.js"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/select2.full.min.js"></script>
+    <script src="/js/custom.js"></script>
 
     <title>No Cars</title>
 

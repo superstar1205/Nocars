@@ -25,7 +25,7 @@ Route::get('/register', 'LoginController@showRegister');
 //Route::get('/home', 'LoggedInController@home')->name('home');
 Route::get('/logout', 'LoggedInController@logout');
 
-Route::get('/base', function () {
+Route::get('/baseline', function () {
     return view('school/baseline');
 });
 Route::get('/report', function () {
